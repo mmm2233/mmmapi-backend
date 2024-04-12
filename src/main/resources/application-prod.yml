@@ -1,0 +1,7 @@
+# 线上配置文件
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://8.136.121.5:3306/mmmapi
+    username: ming
+    password: 123123asd
